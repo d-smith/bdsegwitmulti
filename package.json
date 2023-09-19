@@ -1,0 +1,19 @@
+{
+  "name": "bdsegwitmulti",
+  "version": "1.0.0",
+  "description": "Example of Multi-sig native segwit 2 of 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sepior/tsm": "^55.1.1",
+    "asn1.js": "^5.4.1",
+    "bitcoinjs-lib": "^6.1.5",
+    "bitcointestwalletsgenerator": "^2.0.1",
+    "ecpair": "^2.1.0",
+    "tiny-secp256k1": "^2.2.3"
+  }
+}
